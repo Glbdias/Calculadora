@@ -20,6 +20,21 @@ body{
     background-color: #000807;
 }
 
+.titulo{
+    width: 250px;
+    position: absolute;
+    top: 28%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    font-weight: 100px;
+    text-align: center;
+    background-color: #000807;
+    z-index: 99;
+}
+
 table td{
     display: inline-block;
 }
